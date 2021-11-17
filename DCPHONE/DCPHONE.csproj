@@ -55,6 +55,12 @@
     <Compile Include="AgregarForm.Designer.cs">
       <DependentUpon>AgregarForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Inicio\Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio\Loading.Designer.cs">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </Compile>
     <Compile Include="MenuForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -65,6 +71,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="AgregarForm.resx">
       <DependentUpon>AgregarForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio\Loading.resx">
+      <DependentUpon>Loading.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MenuForm.resx">
       <DependentUpon>MenuForm.cs</DependentUpon>

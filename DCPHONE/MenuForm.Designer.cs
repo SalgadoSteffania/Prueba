@@ -58,7 +58,6 @@
             // 
             // DtgvMostrarProductos
             // 
-            this.DtgvMostrarProductos.AllowUserToAddRows = false;
             this.DtgvMostrarProductos.AllowUserToDeleteRows = false;
             this.DtgvMostrarProductos.AllowUserToResizeColumns = false;
             this.DtgvMostrarProductos.AllowUserToResizeRows = false;
@@ -71,6 +70,7 @@
             this.DtgvMostrarProductos.Size = new System.Drawing.Size(691, 188);
             this.DtgvMostrarProductos.TabIndex = 1;
             this.DtgvMostrarProductos.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DtgvMostrarProductos_CellContentClick);
+            this.DtgvMostrarProductos.CellFormatting += new System.Windows.Forms.DataGridViewCellFormattingEventHandler(this.DtgvMostrarProductos_CellFormatting);
             // 
             // btnUpdate
             // 

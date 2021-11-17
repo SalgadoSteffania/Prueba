@@ -16,3 +16,12 @@ C:\Users\STEFFANIA SALGADO\Desktop\DCPHONE\Datos\obj\Debug\netstandard2.0\Datos.
 C:\Users\STEFFANIA SALGADO\Desktop\DCPHONE\Datos\obj\Debug\netstandard2.0\Datos.csproj.CoreCompileInputs.cache
 C:\Users\STEFFANIA SALGADO\Desktop\DCPHONE\Datos\obj\Debug\netstandard2.0\Datos.dll
 C:\Users\STEFFANIA SALGADO\Desktop\DCPHONE\Datos\obj\Debug\netstandard2.0\Datos.pdb
+C:\Users\STEFFANIA SALGADO\Desktop.git\Prueba\Datos\bin\Debug\netstandard2.0\Datos.deps.json
+C:\Users\STEFFANIA SALGADO\Desktop.git\Prueba\Datos\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\STEFFANIA SALGADO\Desktop.git\Prueba\Datos\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\STEFFANIA SALGADO\Desktop.git\Prueba\Datos\obj\Debug\netstandard2.0\Datos.csproj.AssemblyReference.cache
+C:\Users\STEFFANIA SALGADO\Desktop.git\Prueba\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfoInputs.cache
+C:\Users\STEFFANIA SALGADO\Desktop.git\Prueba\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfo.cs
+C:\Users\STEFFANIA SALGADO\Desktop.git\Prueba\Datos\obj\Debug\netstandard2.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\STEFFANIA SALGADO\Desktop.git\Prueba\Datos\obj\Debug\netstandard2.0\Datos.dll
+C:\Users\STEFFANIA SALGADO\Desktop.git\Prueba\Datos\obj\Debug\netstandard2.0\Datos.pdb

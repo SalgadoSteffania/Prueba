@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\STEFFANIA SALGADO\\Desktop\\DCPHONE\\Datos\\Datos.csproj": {}
+    "C:\\Users\\STEFFANIA SALGADO\\Desktop.git\\Prueba\\Datos\\Datos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\STEFFANIA SALGADO\\Desktop\\DCPHONE\\Datos\\Datos.csproj": {
+    "C:\\Users\\STEFFANIA SALGADO\\Desktop.git\\Prueba\\Datos\\Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\STEFFANIA SALGADO\\Desktop\\DCPHONE\\Datos\\Datos.csproj",
+        "projectUniqueName": "C:\\Users\\STEFFANIA SALGADO\\Desktop.git\\Prueba\\Datos\\Datos.csproj",
         "projectName": "Datos",
-        "projectPath": "C:\\Users\\STEFFANIA SALGADO\\Desktop\\DCPHONE\\Datos\\Datos.csproj",
+        "projectPath": "C:\\Users\\STEFFANIA SALGADO\\Desktop.git\\Prueba\\Datos\\Datos.csproj",
         "packagesPath": "C:\\Users\\STEFFANIA SALGADO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\STEFFANIA SALGADO\\Desktop\\DCPHONE\\Datos\\obj\\",
+        "outputPath": "C:\\Users\\STEFFANIA SALGADO\\Desktop.git\\Prueba\\Datos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

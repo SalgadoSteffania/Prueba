@@ -21,8 +21,7 @@ namespace DCPHONE
         public MenuForm()
         {
             InitializeComponent();
-            
-            
+             
                 
         }
 
@@ -88,8 +87,41 @@ namespace DCPHONE
         {
 
         }
-    }
-}
+
+        private void DtgvMostrarProductos_CellFormatting(object sender, DataGridViewCellFormattingEventArgs e)
+        {
+
+            if(this.DtgvMostrarProductos.Columns[e.ColumnIndex].Name== " ")
+            {
+
+                try
+                {
+                    if (Convert.ToInt32(e.Value) <= 20)
+                    {
+                        e.CellStyle.ForeColor = Color.Red;
+                        e.CellStyle.BackColor = Color.Orange;
+
+                        if (Convert.ToInt32(e.Value) <= 10)
+                        {
+                            e.CellStyle.ForeColor = Color.Aqua;
+                            e.CellStyle.BackColor = Color.BlueViolet;
+
+                        }
+
+
+                    }
+                }
+                catch (NullReferenceException ex)
+                {
+                    MessageBox.Show("  " + ex);
+                }
+               
+                }
+            } // Fin del primer if
+        }
+
+
+     }
 
     
 
